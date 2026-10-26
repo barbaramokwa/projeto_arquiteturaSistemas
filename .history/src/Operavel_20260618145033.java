@@ -1,0 +1,6 @@
+public interface Operavel {
+
+    
+} Operavel {
+    
+}
