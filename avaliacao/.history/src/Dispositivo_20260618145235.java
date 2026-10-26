@@ -1,0 +1,5 @@
+public abstract class Dispositivo {
+    
+    private int codigo;
+    private Str
+}
